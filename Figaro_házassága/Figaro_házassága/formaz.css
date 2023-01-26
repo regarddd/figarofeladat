@@ -1,0 +1,48 @@
+body{
+    background-color: #ffccaa;
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+a:link{
+    color: #a04000;
+}
+
+.vorosmarty{
+    width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    float: left;
+}
+
+h1{
+    color: #a04000;
+}
+
+.sorkizart{
+    text-align: justify;
+}
+
+.figaro{
+    width: 195px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    float: right;
+}
+
+table{
+    width: 100%;
+}
+
+.kozep{
+    text-align: center;
+}
+
+.jobbalul{
+    text-align: right;
+    vertical-align: bottom;
+}
